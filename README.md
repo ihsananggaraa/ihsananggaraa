@@ -7,7 +7,6 @@ I'm currently learning Data Science and Machine Learning
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ihsananggaraa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ihsananggaraa&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ihsananggaraa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
